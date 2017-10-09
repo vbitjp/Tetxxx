@@ -1,0 +1,16 @@
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.Form1.resources
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.Resources.resources
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\bin\Debug\DeviceApplication3.exe
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\bin\Debug\DeviceApplication3.pdb
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.exe
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.pdb
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\DeviceApplication3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\bin\Debug\tetris.exe
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\bin\Debug\tetris.pdb
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\tetris.exe
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\tetris.pdb
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\tetris.Form1.resources
+C:\Documents and Settings\wsuser\My Documents\Visual Studio 2005\Projects\4tetris\DeviceApplication3\DeviceApplication3\obj\Debug\tetris.Resources.resources
